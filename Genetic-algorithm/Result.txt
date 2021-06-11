@@ -1,0 +1,8 @@
+u^2 * y * w + x + u^2 * x^2 * y * z^2 + w = 22
+Number of iterations 3403
+Solution is found: : (u = 1, y = 1, w = 18, x = 1, z = 1)
+
+u^2 * x * y * z + u^2 * w * x^2 * y^2 + z + u * y^2 * z + u * y * z = 13
+Number of iterations 295
+Solution is found: : (u = 1, y = 1, w = 1, x = 1, z = 3)
+
